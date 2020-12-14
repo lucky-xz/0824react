@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <div>姓名：{name}</div>
       <p>年龄：{age}</p>
+      <div>第二次提交</div>
     </div>
   );
 }
